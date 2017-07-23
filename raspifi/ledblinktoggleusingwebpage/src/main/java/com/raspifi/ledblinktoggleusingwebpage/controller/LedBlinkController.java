@@ -1,4 +1,4 @@
-package com.raspifi.itsallaboutleds.blink.controller;
+package com.raspifi.ledblinktoggleusingwebpage.controller;
 
 import com.pi4j.io.gpio.*;
 import org.springframework.web.bind.annotation.RequestMapping;
