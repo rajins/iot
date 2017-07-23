@@ -1,4 +1,4 @@
-package com.raspifi.itsallaboutleds;
+package com.raspifi.itsallaboutleds.blink;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
